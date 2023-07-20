@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "mmnnx23",
+			"oem": "Redmi",
+			"device": "Redmi Note 10S",
+			"filename": "crDroidAndroid-13.0-20230629-apollon-v9.6.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/apollon/9.x/crDroidAndroid-13.0-20230629-apollon-v9.6.zip/download",
+			"timestamp": 1688057542,
+			"md5": "3d11037316f48c7a4b7639ce63982d16",
+			"sha256": "ee90a08770d198c4e07de4c65b0e07f3988055b0237f57ce69e29d590512146f",
+			"size": 1371708673,
+			"version": "9.6",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/apollo/twrp-3.7.0_12-v7.8_A13-apollo-skkk.img/download",
+			"paypal": "",
+			"telegram": "https://t.me/m1xedd",
+			"dt": "https://github.com/mmnnx23/android_device_xiaomi_rosemary",
+			"common-dt": "",
+			"kernel": "https://github.com/mmnnx23/android_kernel_xiaomi_mt6785"
+		}
+	]
+}
